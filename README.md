@@ -1,2 +1,4 @@
 # codecon2023
 Slides from CODECON 2023 (Bratislava)
+
+sli.do interaction: https://analytics.slido.com/share/qHaorwnNbLgCQBq7eqjpQT1SY1T_oGXGCdp8qKgJywvN3ZkJ3HaoqwnHawnZawnYawnMbLhcGMinRv7kDxEJhzONifA8CdACmpiam4WYnYWangnbbIjUlNZKvVnS19Z_mdyjMNZ6f1ibtJgf_0nvoWwQhlrQvA
